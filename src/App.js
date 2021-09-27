@@ -21,4 +21,4 @@ class App extends Component {
 }
 
 export default App;
-//  All of my changes we being pushed to Master, I created this fis-wip branch to try'n save my work
+//  All of my changes were being pushed to Master, I created this fis-wip branch to try'n save my work
